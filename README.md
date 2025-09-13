@@ -2,6 +2,7 @@
 
 It demonstrates one of the fundamental Data Structures concepts where data is stored in a First In, First Out (FIFO) manner.
 
+
 **⚡ How it Works**
 
 -> Enqueue (Insert): Adds an element at the rear end of the queue.
@@ -14,6 +15,7 @@ It demonstrates one of the fundamental Data Structures concepts where data is st
 
 Internally, the program uses an array and two variables (front and rear) to manage elements. It checks for overflow (when queue is full) and underflow (when queue is empty).
 
+
 **🎯 Use / Purpose**
 
 -> Helps students understand the working of queues in Data Structures.
@@ -22,9 +24,12 @@ Internally, the program uses an array and two variables (front and rear) to mana
 
 -> Can be extended to implement circular queues, deques, or linked list-based queues.
 
+
 **⚙️ How to Run**
+
  gcc queue.c 
  ./a.exe
+
 
 **🖥 Sample Output**  
 
