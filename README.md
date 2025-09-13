@@ -28,6 +28,7 @@ Internally, the program uses an array and two variables (front and rear) to mana
 **⚙️ How to Run**
 
  gcc queue.c 
+ 
  ./a.exe
 
 
