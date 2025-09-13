@@ -21,3 +21,18 @@ Internally, the program uses an array and two variables (front and rear) to mana
 -> Useful as a DSA lab program or practice exercise for learning array-based implementations.
 
 -> Can be extended to implement circular queues, deques, or linked list-based queues.
+
+**⚙️ How to Run**
+ gcc queue.c 
+ ./a.exe
+
+**🖥 Sample Output**  
+
+Enter the size of Queue: 3
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter choice: 1
+Enter element: 10
+Enqueued 10
